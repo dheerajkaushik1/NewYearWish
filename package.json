@@ -2,6 +2,7 @@
   "name": "new-year-wish",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://dheerajkaushik1.github.io/NewYearWish",
   "type": "module",
   "scripts": {
     "dev": "vite",
